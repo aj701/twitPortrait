@@ -23,10 +23,10 @@ import operator, time, string
 import nltk
 from nltk.corpus import stopwords
 from string import digits
-CONSUMER_KEY = 'dIPhkUCDxW8BNtcmjXgg2HShl'
-CONSUMER_SECRET = 'gckJh3v1lnrPGBx5ukuu1isvO1fz0h08COthGHAG72W0ixUHb5'
-ACCESS_KEY = '13023742-tPUc0YGNBNcIscEs0ldN8UpnH3xe22raLWVxDJcBb'
-ACCESS_SECRET = 'K600tHO9ia0uPTSAklPyjhM8zbUQ6Nf2zv4DSspaWCzQ1'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_KEY = ''
+ACCESS_SECRET = ''
 
 #DOCOPT COMMAND LINE UX
 dct = docopt(__doc__)
